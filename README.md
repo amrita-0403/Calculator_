@@ -17,13 +17,10 @@ Technologies Used
 * JavaScript
 
 Project Structure
-
-Calculator_/
-│
-├── main.html
-├── style.css
-├── script.js
-└── README.md
+Calculator_
+-main.html
+-styles.css
+-srcipt.js
 
 How to Run
 1. Download or clone the repository.
