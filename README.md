@@ -23,8 +23,8 @@ Calculator_
 -srcipt.js
 
 Screenshots
-![Pic1](.calc1.jpg)
-![Pic2](.calc2.jpg)
+![Pic1](./calc1.jpg)
+![Pic2](./calc2.jpg)
 
 
 
