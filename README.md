@@ -1,4 +1,4 @@
-Basic Calculator
+Basic Calculator 
 
 Project Description
 This is a simple calculator using HTML, CSS, and JavaScript.
@@ -21,6 +21,12 @@ Calculator_
 -main.html
 -styles.css
 -srcipt.js
+
+Screenshots
+![Pic1](.calc1.jpg)
+![Pic2](.calc2.jpg)
+
+
 
 How to Run
 1. Download or clone the repository.
